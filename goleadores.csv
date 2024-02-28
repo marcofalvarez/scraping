@@ -1,0 +1,51 @@
+PlayerName,TeamName,playedMatches,goals,assists,penalties,League
+Sehrou Guirassy,VfB Stuttgart,8,14,2.0,1.0,Bundesliga
+Harry Kane,FC Bayern München,9,12,5.0,3.0,Bundesliga
+Leroy Sané,FC Bayern München,9,8,2.0,,Bundesliga
+Loïs Openda,RB Leipzig,9,8,2.0,,Bundesliga
+Jonas Wind,VfL Wolfsburg,9,8,1.0,,Bundesliga
+Victor Boniface,Bayer 04 Leverkusen,9,7,3.0,1.0,Bundesliga
+Maximilian Beier,TSG 1899 Hoffenheim,9,6,2.0,,Bundesliga
+Eren Dinkci,1. FC Heidenheim 1846,9,5,,,Bundesliga
+Jonas Hofmann,Bayer 04 Leverkusen,9,5,4.0,,Bundesliga
+Ermedin Demirovic,FC Augsburg,9,5,3.0,,Bundesliga
+Kylian Mbappé,Paris Saint-Germain FC,9,10,1.0,3.0,Ligue 1
+Akor Adams,Montpellier HSC,10,7,,,Ligue 1
+Wissam Ben Yedder,AS Monaco FC,10,5,,,Ligue 1
+Mostafa Mohamed,FC Nantes,8,5,,2.0,Ligue 1
+Musa Al Taamari,Montpellier HSC,9,5,1.0,,Ligue 1
+Nabil Alioui,Le Havre AC,10,4,,,Ligue 1
+Teddy Teuma,Stade de Reims,8,4,2.0,1.0,Ligue 1
+Aleksandr Golovin,AS Monaco FC,9,4,1.0,,Ligue 1
+Bafodé Diakité,Lille OSC,10,3,,,Ligue 1
+Florian Sotoca,Racing Club de Lens,10,3,4.0,2.0,Ligue 1
+Jude Bellingham,Real Madrid CF,11,10,2.0,,Primera Division
+Antoine Griezmann,Club Atlético de Madrid,10,7,,2.0,Primera Division
+Álvaro Morata,Club Atlético de Madrid,9,6,1.0,,Primera Division
+Gerard Moreno,Villarreal CF,9,6,,2.0,Primera Division
+Mikel Oyarzabal,Real Sociedad de Fútbol,11,6,1.0,2.0,Primera Division
+Takefusa Kubo,Real Sociedad de Fútbol,11,5,2.0,,Primera Division
+Artem Dovbyk,Girona FC,11,5,2.0,1.0,Primera Division
+Bryan Zaragoza,Granada CF,11,5,2.0,1.0,Primera Division
+Alexander Sørloth,Villarreal CF,11,5,1.0,,Primera Division
+Robert Lewandowski,FC Barcelona,9,5,3.0,1.0,Primera Division
+Erling Haaland,Manchester City FC,10,11,2.0,2.0,Premier League
+Mohamed Salah,Liverpool FC,10,8,4.0,3.0,Premier League
+Heung-min Son,Tottenham Hotspur FC,10,8,1.0,,Premier League
+Callum Wilson,Newcastle United FC,9,7,,2.0,Premier League
+Jarrod Bowen,West Ham United FC,10,6,1.0,,Premier League
+Alexander Isak,Newcastle United FC,9,6,,1.0,Premier League
+Bryan Mbeumo,Brentford FC,10,6,2.0,2.0,Premier League
+Hwang Heechan,Wolverhampton Wanderers FC,10,6,1.0,,Premier League
+Eddie Nketiah,Arsenal FC,10,5,,,Premier League
+Evan Ferguson,Brighton & Hove Albion FC,10,5,,,Premier League
+Lautaro Martínez,FC Internazionale Milano,10,11,2.0,1.0,Serie A
+Victor Osimhen,SSC Napoli,8,6,1.0,2.0,Serie A
+Olivier Giroud,AC Milan,10,6,3.0,3.0,Serie A
+Matteo Politano,SSC Napoli,10,5,3.0,1.0,Serie A
+Nicolás González,ACF Fiorentina,9,5,1.0,,Serie A
+Andrea Colpani,AC Monza,10,5,,,Serie A
+Domenico Berardi,US Sassuolo Calcio,8,5,1.0,2.0,Serie A
+Romelu Lukaku,AS Roma,8,5,,,Serie A
+Matias Soule,Frosinone Calcio,10,5,1.0,1.0,Serie A
+Giacomo Bonaventura,ACF Fiorentina,10,4,2.0,,Serie A
